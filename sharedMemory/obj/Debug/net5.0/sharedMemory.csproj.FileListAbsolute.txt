@@ -1,0 +1,16 @@
+F:\Unitywork\learn_cs\sharedMemory\bin\Debug\net5.0\sharedMemory.exe
+F:\Unitywork\learn_cs\sharedMemory\bin\Debug\net5.0\sharedMemory.deps.json
+F:\Unitywork\learn_cs\sharedMemory\bin\Debug\net5.0\sharedMemory.runtimeconfig.json
+F:\Unitywork\learn_cs\sharedMemory\bin\Debug\net5.0\sharedMemory.runtimeconfig.dev.json
+F:\Unitywork\learn_cs\sharedMemory\bin\Debug\net5.0\sharedMemory.dll
+F:\Unitywork\learn_cs\sharedMemory\bin\Debug\net5.0\ref\sharedMemory.dll
+F:\Unitywork\learn_cs\sharedMemory\bin\Debug\net5.0\sharedMemory.pdb
+F:\Unitywork\learn_cs\sharedMemory\obj\Debug\net5.0\sharedMemory.csproj.AssemblyReference.cache
+F:\Unitywork\learn_cs\sharedMemory\obj\Debug\net5.0\sharedMemory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unitywork\learn_cs\sharedMemory\obj\Debug\net5.0\sharedMemory.AssemblyInfoInputs.cache
+F:\Unitywork\learn_cs\sharedMemory\obj\Debug\net5.0\sharedMemory.AssemblyInfo.cs
+F:\Unitywork\learn_cs\sharedMemory\obj\Debug\net5.0\sharedMemory.csproj.CoreCompileInputs.cache
+F:\Unitywork\learn_cs\sharedMemory\obj\Debug\net5.0\sharedMemory.dll
+F:\Unitywork\learn_cs\sharedMemory\obj\Debug\net5.0\ref\sharedMemory.dll
+F:\Unitywork\learn_cs\sharedMemory\obj\Debug\net5.0\sharedMemory.pdb
+F:\Unitywork\learn_cs\sharedMemory\obj\Debug\net5.0\sharedMemory.genruntimeconfig.cache

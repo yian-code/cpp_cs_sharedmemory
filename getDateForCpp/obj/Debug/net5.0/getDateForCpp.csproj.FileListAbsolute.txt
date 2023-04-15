@@ -1,0 +1,16 @@
+F:\cpp_cs_SharedMemory\getDateForCpp\bin\Debug\net5.0\getDateForCpp.exe
+F:\cpp_cs_SharedMemory\getDateForCpp\bin\Debug\net5.0\getDateForCpp.deps.json
+F:\cpp_cs_SharedMemory\getDateForCpp\bin\Debug\net5.0\getDateForCpp.runtimeconfig.json
+F:\cpp_cs_SharedMemory\getDateForCpp\bin\Debug\net5.0\getDateForCpp.runtimeconfig.dev.json
+F:\cpp_cs_SharedMemory\getDateForCpp\bin\Debug\net5.0\getDateForCpp.dll
+F:\cpp_cs_SharedMemory\getDateForCpp\bin\Debug\net5.0\ref\getDateForCpp.dll
+F:\cpp_cs_SharedMemory\getDateForCpp\bin\Debug\net5.0\getDateForCpp.pdb
+F:\cpp_cs_SharedMemory\getDateForCpp\obj\Debug\net5.0\getDateForCpp.csproj.AssemblyReference.cache
+F:\cpp_cs_SharedMemory\getDateForCpp\obj\Debug\net5.0\getDateForCpp.GeneratedMSBuildEditorConfig.editorconfig
+F:\cpp_cs_SharedMemory\getDateForCpp\obj\Debug\net5.0\getDateForCpp.AssemblyInfoInputs.cache
+F:\cpp_cs_SharedMemory\getDateForCpp\obj\Debug\net5.0\getDateForCpp.AssemblyInfo.cs
+F:\cpp_cs_SharedMemory\getDateForCpp\obj\Debug\net5.0\getDateForCpp.csproj.CoreCompileInputs.cache
+F:\cpp_cs_SharedMemory\getDateForCpp\obj\Debug\net5.0\getDateForCpp.dll
+F:\cpp_cs_SharedMemory\getDateForCpp\obj\Debug\net5.0\ref\getDateForCpp.dll
+F:\cpp_cs_SharedMemory\getDateForCpp\obj\Debug\net5.0\getDateForCpp.pdb
+F:\cpp_cs_SharedMemory\getDateForCpp\obj\Debug\net5.0\getDateForCpp.genruntimeconfig.cache
